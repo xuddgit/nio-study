@@ -6,7 +6,7 @@
  **/
 
 
-package com.org.wwls;
+package com.org.classs.wwls;
 
 import java.math.BigDecimal;
 
